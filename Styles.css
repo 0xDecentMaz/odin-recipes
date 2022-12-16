@@ -3,3 +3,12 @@
     font-weight: bold;
     text-align: center;
 }
+
+.listItem{
+    font-size: 25;
+    color: green;
+}
+
+.listItem.link{
+    color: blue;
+}
